@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Robottiauto</string>
+    <string name="device_name">Laitteen nimi</string>
+    <string name="device_address">Laitteen osoite</string>
+    <string name="choose_paired_device">Valitse paritettu laite</string>
+    <string name="update_list">Päivitä lista</string>
+    <string name="connecting">Yhdistetään...</string>
+    <string name="connected">Yhdistetty</string>
+    <string name="not_connected">Ei yhteyttä</string>
+</resources>
